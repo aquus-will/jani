@@ -1,0 +1,129 @@
+Class file properties:
+'magic = 0xCAFEBABE
+'version = 49.0
+'constant_pool_count = 27
+'constant_pool:
+'  1: cf.constant_pool[1].tag = 10
+	''this entry is a method info with properties:
+	''> class index: 3
+	''> name and type index: 24
+'  2: cf.constant_pool[2].tag = 7
+	''this entry is a class info with properties:
+	''> name index: 25
+'  3: cf.constant_pool[3].tag = 7
+	''this entry is a class info with properties:
+	''> name index: 26
+'  4: cf.constant_pool[4].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 6
+	''> string: <init>
+'  5: cf.constant_pool[5].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 3
+	''> string: ()V
+'  6: cf.constant_pool[6].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 4
+	''> string: Code
+'  7: cf.constant_pool[7].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 15
+	''> string: LineNumberTable
+'  8: cf.constant_pool[8].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 18
+	''> string: LocalVariableTable
+'  9: cf.constant_pool[9].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 4
+	''> string: this
+' 10: cf.constant_pool[10].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 24
+	''> string: Ljanitestfibonacci/Main;
+' 11: cf.constant_pool[11].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 4
+	''> string: main
+' 12: cf.constant_pool[12].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 22
+	''> string: ([Ljava/lang/String;)V
+' 13: cf.constant_pool[13].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 3
+	''> string: aux
+' 14: cf.constant_pool[14].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 1
+	''> string: I
+' 15: cf.constant_pool[15].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 1
+	''> string: i
+' 16: cf.constant_pool[16].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 4
+	''> string: args
+' 17: cf.constant_pool[17].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 19
+	''> string: [Ljava/lang/String;
+' 18: cf.constant_pool[18].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 2
+	''> string: f1
+' 19: cf.constant_pool[19].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 2
+	''> string: f2
+' 20: cf.constant_pool[20].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 1
+	''> string: c
+' 21: cf.constant_pool[21].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 1
+	''> string: S
+' 22: cf.constant_pool[22].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 10
+	''> string: SourceFile
+' 23: cf.constant_pool[23].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 9
+	''> string: Main.java
+' 24: cf.constant_pool[24].tag = 12
+	''this entry is a name and type info with properties:
+	''> name index: 4
+	''> descriptor index: 5
+' 25: cf.constant_pool[25].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 22
+	''> string: janitestfibonacci/Main
+' 26: cf.constant_pool[26].tag = 1
+	''this entry is a string Ut8 with properties:
+	''> length: 16
+	''> string: java/lang/Object
+'access_flags = 0x0021
+'this_class = 2
+'super_class = 3
+'interfaces_count = 0
+'interfaces:
+'fields_count = 0
+'methods_count = 2
+'  0: cf.methods[0].access_flags = 1
+'  0: cf.methods[0].name_index = 4
+'  0: cf.methods[0].descriptor_index = 5
+'  0: cf.methods[0].attributes_count = 1
+'     0: cf.methods[0].attributes[0].attr_name_index = 6
+'     0: cf.methods[0].attributes[0].attr_length = 47
+'  1: cf.methods[1].access_flags = 9
+'  1: cf.methods[1].name_index = 11
+'  1: cf.methods[1].descriptor_index = 12
+'  1: cf.methods[1].attributes_count = 1
+'     1: cf.methods[1].attributes[0].attr_name_index = 6
+'     1: cf.methods[1].attributes[0].attr_length = 153
+'attributes_count = 1
+'  0: cf.attributes[0].attr_name_index = 22
+'  0: cf.attributes[0].attr_length = 2
